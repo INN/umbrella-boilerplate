@@ -29,15 +29,8 @@ git submodule add -f https://github.com/INN/largo.git wp-content/themes/largo
 
 mkdir -p wp-content/plugins/
 
-# Move readme-template.md over README.md
-if [ -f "readme-template.md" ]
-then
-	mv readme-template.md README.md
-fi
-
-# stage the git commit
-git add .git-ftp-ignore .gitignore README.md LICENSE contributing.md
-
 # cleanup
 rm initialize.sh
-rm -r docs/
+
+# stage the git commit
+git add -f README.md initialize.sh
