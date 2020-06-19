@@ -2,7 +2,7 @@
 
 <!-- remove this section after the repo is set up -->
 
-1. [Click this link](./issues/new?title=Setup+tasks&body=Setup tasks for creating the boilerplate repo%3A%0A%0A- [ ] run `.%2Finitialize.sh`%0A- [ ] set team permissions%0A- [ ] remove setup instructions from `README.md`%0A- [ ] update `README.md` for this site) to generate the first issue in this repo. (Only works if you're clicking it from the root of the newly-created repo on GitHub)
+1. [Click this link](./issues/new?title=Setup+tasks&body=Setup%20tasks%20for%20creating%20the%20boilerplate%20repo%3A%0A%0A-%20%5B%20%5D%20run%20%60.%2Finitialize.sh%60%0A-%20%5B%20%5D%20set%20team%20permissions%0A-%20%5B%20%5D%20remove%20setup%20instructions%20from%20%60README.md%60%0A-%20%5B%20%5D%20update%20%60README.md%60%20for%20this%20site%20to%20generate%20the%20first%20issue%20in%20this%20repo.%20%28Only%20works%20if%20you%27re%20clicking%20it%20from%20the%20root%20of%20the%20newly-created%20repo%20on%20GitHub%29) to generate the first issue in this repo. (Only works if you're clicking it from the root of the newly-created repo on GitHub)
 2. Complete that issue.
 
 # Copy TKTK Site Locally
